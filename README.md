@@ -1,7 +1,7 @@
 
 ---
 
-## 📂 Project 2: Infrastructure as Code with Terraform & CI/CD
+## 📂 Infrastructure as Code with Terraform & CI/CD
 `iac-cicd/README.md`
 
 ```markdown
