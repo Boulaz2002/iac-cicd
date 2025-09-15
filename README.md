@@ -4,7 +4,6 @@
 ## 📂 Infrastructure as Code with Terraform & CI/CD
 `iac-cicd/README.md`
 
-```markdown
 # Infrastructure as Code with Terraform & CI/CD  
 
 End-to-end **AWS infrastructure automation** using **Terraform** and **GitHub Actions**.  
