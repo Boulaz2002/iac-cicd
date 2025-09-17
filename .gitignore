@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual env
+venv/
+.venv/
+
+# Environment files
+.env
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+
+# Ignore all Terraform variable files
+*.tfvars
+*.tfvars.json
+
+# Docker
+*.log
+*.pid
+*.sock
+node_modules/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
